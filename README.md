@@ -6,6 +6,8 @@ You should install these modules globally:
 - npm i browserify -g
 - npm i uglify-js -g
 
+Install all packages from `package.json` using the command: `npm i`
+
 Comment/Uncomment Debug/Release in `index.html` and `main.ts` (see comments in these files).
 
 Use these commands to build the example:
